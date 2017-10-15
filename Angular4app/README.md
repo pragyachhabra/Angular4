@@ -6,6 +6,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ##Install nodejs and angularjs
 
 npm install -g @angular/cli
+
+
+
 ng serve
 
 
