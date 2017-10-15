@@ -7,7 +7,13 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 npm install -g @angular/cli
 ng serve
+
+
+
 npm start
+
+
+
 http://localhost:4200/
 
 ## Development server
